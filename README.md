@@ -24,6 +24,15 @@ The data is kept anonymous, privacy of respondents is ensured. There is a possib
 Jupyter Notebook/Python3 libraries:
 - numpy
 - pandas
-- scikit
+- json
+- sklearn
+- statsmodels
+
+
+  libraries for visualizations:
 - seaborn
 - matplotlib
+- folium
+
+  ## Deliverable
+  <a href="https://public.tableau.com/views/WorldHappinessReportsAnalysis2015-2019/Story1?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link">Dashboard</a> on Tableau
