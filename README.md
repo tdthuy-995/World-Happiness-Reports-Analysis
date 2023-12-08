@@ -35,4 +35,4 @@ Jupyter Notebook/Python3 libraries:
 - folium
 
   ## Deliverable
-  <a href="https://public.tableau.com/views/WorldHappinessReportsAnalysis2015-2019/Story1?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link">Dashboard</a> on Tableau
+  <a href="https://public.tableau.com/views/WorldHappinessReportsAnalysis2015-2019/Story1?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link">Dashboard</a> on Tableau with results related to answering the hypothesis only, for more details please view the scripts.
