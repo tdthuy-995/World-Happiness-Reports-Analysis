@@ -15,24 +15,28 @@ I have used the reports from 2015 to 2019.
 ## Data limitation
 Surveys are bound to produce subjective values, as unsatisfied individuals are more likely to raise their voices and concerns than satisfied people are. 
 Not every country is surveyed every year, hence analysis of those countries will be less accurate and less comparable over time.
-The dataset does not include something like “Security/Safety”, evaluating how safe the countries are regarding crime rates, wars, civil uproars… But then again those are more likely to be dynamic factors than the six life factors. It also does not include a section for work/life-balance or stress levels.
+The dataset does not include something like “Security/Safety”, evaluating how safe the countries are regarding crime rates, wars, civil uproars.
+It also does not include a section for work/life-balance or stress levels.
 
 ## Data Ethics
 The data is kept anonymous, privacy of respondents is ensured. There is a possibility of collection bias as, it is unknown how these surveys were effectively conducted; in person/online/per mail.
 
 ## Tools
-Jupyter Notebook/Python3 libraries:
+1. Jupyter Notebook/Python3 libraries:
 - numpy
 - pandas
 - json
 - sklearn
-- statsmodels
+-  statsmodels
 
 
   libraries for visualizations:
 - seaborn
 - matplotlib
-- folium
+ - folium
+
+  2. Excel
+  3. Tableau
 
   ## Deliverable
   <a href="https://public.tableau.com/views/WorldHappinessReportsAnalysis2015-2019/Story1?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link">Dashboard</a> on Tableau with results related to answering the hypothesis only, for more details please view the scripts.
